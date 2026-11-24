@@ -1,0 +1,6 @@
+{
+  "name": "Ürün Öne Çıkarma Yönetimi",
+  "description": "Performance marketing odaklı, modern ve kullanıcı dostu ürün öne çıkarma (boost) ve kampanya yönetimi dashboard'u.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
